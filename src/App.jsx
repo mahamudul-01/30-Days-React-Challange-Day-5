@@ -1,11 +1,12 @@
+import Header from "./components/Header/Header"
 
 
 function App() {
   
 
   return (
-    <div className="text-6xl">
-      knowledge cafe
+    <div>
+      <Header></Header>
     </div>
   )
 }
