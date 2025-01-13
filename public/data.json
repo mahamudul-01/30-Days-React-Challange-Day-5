@@ -4,6 +4,7 @@
       "cover": "https://i.ibb.co.com/K7wJxvK/futuristic-smart-city-with-5g-global-network-technology.jpg",
       "title": "Understanding React",
       "author_img": "https://i.ibb.co.com/d5VCZgd/IMG-1232.jpg",
+      "author_name": "John Doe",
       "date": "2023-10-01",
       "reading_time": "5 min read",
       "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
@@ -13,6 +14,7 @@
       "cover": "https://i.ibb.co.com/1vWkC5z/asian-young-male-wearing-wearable-goggle-headset-virtual-online-meeting-digital-space-working-with-3.jpg",
       "title": "Advanced JavaScript",
       "author_img": "https://i.ibb.co.com/d5VCZgd/IMG-1232.jpg",
+      "author_name": "Jane Smith",
       "date": "2023-10-02",
       "reading_time": "8 min read",
       "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
@@ -22,6 +24,7 @@
       "cover": "https://i.ibb.co.com/FBcZ5BB/robot-handshake-human-background-futuristic-digital-age.jpg",
       "title": "CSS Tips and Tricks",
       "author_img": "https://i.ibb.co.com/d5VCZgd/IMG-1232.jpg",
+      "author_name": "Alice Johnson",
       "date": "2023-10-03",
       "reading_time": "6 min read",
       "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
@@ -31,6 +34,7 @@
       "cover": "https://i.ibb.co.com/TWnqvZD/people-using-gadgets.jpg",
       "title": "Mastering HTML",
       "author_img": "https://i.ibb.co.com/d5VCZgd/IMG-1232.jpg",
+      "author_name": "Bob Brown",
       "date": "2023-10-04",
       "reading_time": "4 min read",
       "hashtags": ["#HTML", "#WebDevelopment", "#Frontend"]
@@ -40,8 +44,8 @@
       "cover": "https://i.ibb.co.com/zJZzBV4/representation-user-experience-interface-design.jpg",
       "title": "Node.js for Beginners",
       "author_img": "https://i.ibb.co.com/d5VCZgd/IMG-1232.jpg",
+      "author_name": "Charlie Davis",
       "reading_time": "7 min read",
       "hashtags": ["#NodeJS", "#JavaScript", "#Backend"]
     }
-      
-  ]
+]

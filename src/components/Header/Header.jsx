@@ -3,7 +3,7 @@ import profile from '../../assets/images/profile.png'
 // Header component that displays the title and profile image
 const Header = () => {
     return (
-        <div className='flex justify-between items-center px-4 py-2 border-b-2'>
+        <div className='flex justify-between items-center my-10 px-10 py-2 border-b-2'>
             <h1 className="text-4xl font-bold">
                 {/* Display the title */}
                 Knowledge Cafe
